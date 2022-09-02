@@ -1,0 +1,7 @@
+* {
+    cursor: default;
+}
+
+div .heading {
+    background: url('Testing/test.jpg');
+}
